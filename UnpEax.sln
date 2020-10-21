@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{67C26856-B169-4663-81BC-02A9A4F0BFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnpEax.App", "src\UnpEax.App\UnpEax.App.csproj", "{7427C010-5F39-4702-BCCA-B0423EE272D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7427C010-5F39-4702-BCCA-B0423EE272D4} = {67C26856-B169-4663-81BC-02A9A4F0BFC9}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7427C010-5F39-4702-BCCA-B0423EE272D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7427C010-5F39-4702-BCCA-B0423EE272D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7427C010-5F39-4702-BCCA-B0423EE272D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7427C010-5F39-4702-BCCA-B0423EE272D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
